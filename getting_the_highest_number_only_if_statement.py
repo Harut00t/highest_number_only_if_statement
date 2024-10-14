@@ -1,4 +1,11 @@
 #variables for input, making input to int number 1, 2, 3, 4 and 5
+
+var1 = int(input("insert a first number here: "))
+var2 = int(input("insert a second number here: "))
+var3 = int(input("insert a third number here: "))
+var4 = int(input("insert a fourth number here: "))
+var5 = int(input("insert a fifth number here: "))
+
 #create def find_largest_number and conditional statements
 #if var1 is larger than var2
     #if var1 is larger than var3:
